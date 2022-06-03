@@ -1,5 +1,1 @@
-# rewards-to-do-app
-
-pages:
-
-- dash, workspace 1, workspace 2
+# Rewards TO DO App
