@@ -1,10 +1,10 @@
 import './Navigation.scss';
 
-const Navigation = () => {
+const Navigation = ({ workspace, setWorkspace }) => {
   return (
     <div className="Navigation">
-      <button></button>
-      <button></button>
+      <button onClick={() => setWorkspace(0)}>dashboard</button>
+      <button onClick={() => setWorkspace(1)}>full menu</button>
     </div>
   );
 };
