@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "name": "feed cat",
+    "group": "red",
+    "isMainList": true
+  },
+  {
+    "id": "002",
+    "name": "feed cat",
+    "group": "blue",
+    "isMainList": true
+  },
+  {
+    "id": "003",
+    "name": "feed cat",
+    "group": "blue",
+    "isMainList": true
+  },
+  {
+    "id": "004",
+    "name": "feed cat",
+    "group": "green",
+    "isMainList": false
+  },
+  {
+    "id": "005",
+    "name": "feed cat",
+    "group": "orange",
+    "isMainList": false
+  },
+  {
+    "id": "006",
+    "name": "feed cat",
+    "group": "red",
+    "isMainList": false
+  },
+  {
+    "id": "007",
+    "name": "feed cat",
+    "group": "blue",
+    "isMainList": false
+  },
+  {
+    "id": "008",
+    "name": "feed cat",
+    "group": "blue",
+    "isMainList": false
+  },
+  {
+    "id": "009",
+    "name": "feed cat",
+    "group": "green",
+    "isMainList": false
+  },
+  {
+    "id": "010",
+    "name": "feed cat",
+    "group": "orange",
+    "isMainList": true
+  }
+]
