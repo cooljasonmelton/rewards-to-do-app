@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import Card from '../../components/Card/Card';
+import DashboardFullList from '../../components/DashboardFullList/DashboardFullList';
 import MainToDoList from '../../components/MainToDoList/MainToDoList';
 import ProjectGroupContainer from '../../components/ProjectGroupContainer/ProjectGroupContainer';
 import RewardsContainer from '../../components/RewardsContainer/RewardsContainer';
@@ -29,12 +29,12 @@ const Dashboard = () => {
 
   return (
     <>
-      <div className="Dashboard">
+      <div className="DashboardLeftWrapper">
         <RewardsContainer />
         <MainToDoList />
         <ProjectGroupContainer />
       </div>
-      <Card>list of to dos</Card>
+      <DashboardFullList />
     </>
   );
 };

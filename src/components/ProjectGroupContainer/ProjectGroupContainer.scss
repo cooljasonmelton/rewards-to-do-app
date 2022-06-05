@@ -1,0 +1,14 @@
+.ProjectGroupContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: calc(100% - 600px);
+  padding: 0;
+  margin: 0;
+  background-color: #fafafa;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  overflow: scroll;
+}
