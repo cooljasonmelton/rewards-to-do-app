@@ -7,7 +7,7 @@ const MainToDoItem = ({ text }) => {
         <span>{text}</span>
         {/* ? text : on click, change to edit input */}
       </button>
-      {/* add item controls comp */}
+      {/* ITEM CONTROLS:  DONE, DELETE, REMOVE MAIN, GROUP */}
     </li>
   );
 };

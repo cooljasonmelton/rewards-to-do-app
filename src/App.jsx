@@ -5,7 +5,7 @@ import Navigation from './containers/Navigation/Navigation';
 import './App.scss';
 
 const App = () => {
-  const [workspace, setWorkspace] = useState(0);
+  const [workspace, setWorkspace] = useState(1);
 
   return (
     <div className="App">
