@@ -14,7 +14,12 @@ full menu
 
 to dos stored in local storagexx
 
-OLD COLORS:
+## FEATURE IDEAS
+- a system for keeping my stand up that looks like a file structure so i can more easily click through my bits
+looks like: topic as file name, and clicking opens file, and sorted into folders somehow
+
+
+## OLD COLORS:
 // TO DO
 // background-color: #FBFF12;
 // box-shadow: 1px 2px 2px #FFFFFF;
