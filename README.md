@@ -16,7 +16,7 @@ to dos stored in local storagexx
 
 ## FEATURE IDEAS
 - a system for keeping my stand up that looks like a file structure so i can more easily click through my bits
-looks like: topic as file name, and clicking opens file, and sorted into folders somehow
+looks like: topic as file name, and clicking opens file, and sorted into folders somehow, also have this back up my bits somehow, maybe google sheets API? 
 
 
 ## OLD COLORS:
